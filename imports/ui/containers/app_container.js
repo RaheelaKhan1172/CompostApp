@@ -4,7 +4,7 @@ import { AppLayout }  from '../layouts/app_layout'
  
 export default createContainer(() => {
  
-  const signedIn = Meteor.user() !== null
+  const signedIn = Meteor.user() !== null 
  
   return {
     signedIn
