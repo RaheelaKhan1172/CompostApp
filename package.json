@@ -5,11 +5,13 @@
     "start": "meteor run"
   },
   "dependencies": {
+    "leaflet": "^0.7.7",
     "material-ui": "^0.15.2",
     "meteor-node-stubs": "~0.2.0",
     "react": "^15.2.1",
     "react-addons-pure-render-mixin": "^15.2.1",
     "react-dom": "^15.2.1",
+    "react-leaflet": "^0.12.1",
     "react-mounter": "^1.2.0"
   }
 }
