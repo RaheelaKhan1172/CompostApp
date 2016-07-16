@@ -1,15 +1,11 @@
-<!DOCTYPE html>
-<html>
+<!-- Note: Had to change from .html to .txt since HTML is processing straight to screen without a route -->
 <head>
-
+  <title>Resources</title>
 </head>
 
 <body>
 
 
-
-
 <a href="http://www.cityofranchocordova.org/government/public-works/services-and-programs/city-residential-solid-waste-services"><img src="2016_rancho-cordova-pickup-schedule.png">2016 Rancho Cordova pickup schedule</a>
 
 </body>
-</html>
